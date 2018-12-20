@@ -17,4 +17,4 @@ To open the .ipynb files on your computer you can use, for example, [Anaconda](h
  There are also some assessment tests and homeworks. The Jupiter notebooks provide such layout:
  ![Jupiter notebook](/images/1.png)
 
-Enjoy!
+### Enjoy!
